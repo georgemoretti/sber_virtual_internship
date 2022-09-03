@@ -28,3 +28,7 @@ https://v.preactum.ru/stazhirovki/sberbank-data-science/
 - Mean absolute error
 - Mean squared error
 - Root mean squared error
+
+Важное примечание!
+Архив с данными будет загружен на Яндекс.Диск: https://disk.yandex.ru/d/0PfezLyV6uTz-A
+
