@@ -16,7 +16,7 @@ https://v.preactum.ru/stazhirovki/sberbank-data-science/
 - Курс валюты, стоимость доллара в рублях (Источник: Центральный Банк РФ, Ссылка: https://cbr.ru/currency_base/dynamics/)
 
 ### Построение модели
-Для предсказания стбильных средств была применена библиотека XGBoost и модель XGBRegressor
+Для предсказания стабильных средств была применена библиотека XGBoost и модель XGBRegressor
 
 ### Визуализация
 - Matplotlib
