@@ -30,5 +30,5 @@ https://v.preactum.ru/stazhirovki/sberbank-data-science/
 - Root mean squared error
 
 Важное примечание!
-Архив с данными будет загружен на Яндекс.Диск: https://disk.yandex.ru/d/0PfezLyV6uTz-A
+Архив с данными загружен на Яндекс.Диск: https://disk.yandex.ru/d/0PfezLyV6uTz-A
 
